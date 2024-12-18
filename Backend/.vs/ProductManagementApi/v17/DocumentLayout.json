@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\ShopHub\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA30C3CB-D203-49CA-A3CA-F02C24077DC1}|..\\Desktop\\ProductManagementWpf\\ProductManagementWpf.csproj|d:\\coding\\shophub\\desktop\\productmanagementwpf\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA30C3CB-D203-49CA-A3CA-F02C24077DC1}|..\\Desktop\\ProductManagementWpf\\ProductManagementWpf.csproj|d:\\coding\\shophub\\desktop\\productmanagementwpf\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "D:\\Coding\\ShopHub\\Desktop\\ProductManagementWpf\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "..\\Desktop\\ProductManagementWpf\\Services\\ApiService.cs",
+              "ToolTip": "D:\\Coding\\ShopHub\\Desktop\\ProductManagementWpf\\Services\\ApiService.cs",
+              "RelativeToolTip": "..\\Desktop\\ProductManagementWpf\\Services\\ApiService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:11:36.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Coding\\ShopHub\\Desktop\\ProductManagementWpf\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Desktop\\ProductManagementWpf\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\Coding\\ShopHub\\Desktop\\ProductManagementWpf\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "..\\Desktop\\ProductManagementWpf\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwFgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:10:03.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
